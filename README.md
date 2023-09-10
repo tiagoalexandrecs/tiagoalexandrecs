@@ -1,10 +1,9 @@
 
-![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/54a8752f-cfa5-4608-9d71-19cb58a85391)
+<img align="right" alt="GIF" src="https://images.app.goo.gl/cNNbQbzSNMWNyMyq8" width="250" height="200" />
 
 
 # 😎 **About me:**
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
 <p>
     I'm a Full Stack Developer and an Electrical Engineering undergraduate at Universidade de São Paulo (USP)<br>
