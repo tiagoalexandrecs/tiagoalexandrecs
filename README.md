@@ -1,7 +1,6 @@
 <div align="center">
   <h2 align="center">
     ![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/4fc5d439-9775-4002-8d8d-c34f7a36a9b7)
-" />
   </h2>
 </div>
 
