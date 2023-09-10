@@ -1,12 +1,12 @@
 
 
-# 😎 **Sobre mim:**
+# 😎 **About me:**
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
 <p>
-    Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
-    A formação no ensino superior é atualmente uma das minhas maiores conquistas, e foi o ponto de partida do meu flerte com os estudos de tecnologia 💕💻 <br> 
+    I'm a Full Stack Developer and an Electrical Engineering undergraduate at Universidade de São Paulo (USP)<br>
+    Despite my interest on energy sources and power generation, I found an even greater passion on coding and web technologies.Since then, I have been studying numerous languages and tools, as well as developing both hardskills and softskills related this programming world!  <br> 
     <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
     Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos com calma.
 </p>
