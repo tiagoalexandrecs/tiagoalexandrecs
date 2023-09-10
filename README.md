@@ -1,5 +1,4 @@
-
-![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/00a5610d-ee5c-441c-ae73-d4af35333cc0
+![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/84d981d6-fb7d-4e0d-9fcc-6965fdb3e972)
 
 
 # 😎 **About me:**
