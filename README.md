@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="24740200" data-share-method="host" data-aspect-ratio="3.855" data-width="100%"><a href="https://tenor.com/view/welcome-to-my-profile-welcome-gif-24740200">Welcome To My Profile Welcome GIF</a>from <a href="https://tenor.com/search/welcome+to+my+profile-gifs">Welcome To My Profile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="24740200" data-share-method="host" data-aspect-ratio="3.855" data-width="100%"><a href="https://tenor.com/view/welcome-to-my-profile-welcome-gif-24740200"></a>from <a href="https://tenor.com/search/welcome+to+my+profile-gifs">Welcome To My Profile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 😎 **About me:**
 
