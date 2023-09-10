@@ -1,9 +1,5 @@
-<div align="center">
-  <h2 align="center">
-    <img src="https://media.tenor.com/Zkr-lCvchfYAAAAC/welcome-to-my-profile-welcome.gif"/>
-  </h2>
-</div>
 
+![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/b9a02f9e-a055-47a1-b8d6-cad05a9efeae)
 
 
 
