@@ -1,8 +1,9 @@
 <div align="center">
   <h2 align="center">
-    <img src="https://tenor.com/pt-BR/view/welcome-to-my-profile-welcome-gif-24740201"/>
+    <div class="tenor-gif-embed" data-postid="24740201" data-share-method="host" data-aspect-ratio="3.855" data-width="100%"><a href="https://tenor.com/view/welcome-to-my-profile-welcome-gif-24740201">Welcome To My Profile Welcome GIF</a>from <a href="https://tenor.com/search/welcome+to+my+profile-gifs">Welcome To My Profile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </h2>
 </div>
+
 
 
 # 😎 **About me:**
