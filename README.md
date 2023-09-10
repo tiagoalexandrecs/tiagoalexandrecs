@@ -1,6 +1,6 @@
 <div align="center">
   <h2 align="center">
-    ![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/4fc5d439-9775-4002-8d8d-c34f7a36a9b7)
+    <img src="https://tenor.com/pt-BR/view/welcome-to-my-profile-welcome-gif-24740201"/>
   </h2>
 </div>
 
