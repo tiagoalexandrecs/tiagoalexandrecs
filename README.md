@@ -7,12 +7,10 @@
 <p>
     I'm a Full Stack Developer and an Electrical Engineering undergraduate at Universidade de São Paulo (USP)<br>
     Despite my interest on energy sources and power generation, I found an even greater passion on coding and web technologies.Since then, I have been studying numerous languages and tools, as well as developing both hardskills and softskills related this programming world!  <br> 
-    <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
 </p>
 
 <br/>
 
-#
 
 # 💻 **Languages and Tech Tools:**
 
@@ -35,12 +33,10 @@
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+[Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
-<!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)  -->
-<!-- ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) --
-
-#
 
 # 📊 **Estatísticas:**
 
