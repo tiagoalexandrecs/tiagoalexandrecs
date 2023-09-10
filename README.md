@@ -42,8 +42,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HadokBjorn&theme=chartreuse-dark&locale=pt_BR&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 
 
 <br>
