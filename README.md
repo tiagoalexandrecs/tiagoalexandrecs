@@ -1,4 +1,4 @@
-
+# Hello there! <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 
 # 😎 **About me:**
 
