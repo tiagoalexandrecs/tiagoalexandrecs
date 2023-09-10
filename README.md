@@ -38,19 +38,20 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
-# 📊 **Estatísticas:**
+# 📊 **My Statistica:**
 
 <br>
 
-![]generated/languages.svg
+![](https://github.com/tiagoalexandrecs/stats/blob/master/generated/languages.svg)
+![](https://github.com/tiagoalexandrecs/stats/blob/master/generated/overview.svg)
 
 
 
 
 <br>
 
-# 📫 **Me encontre:**
+# 📫 **You can find me on:**
 
 <div> 
-  <a href="https://www.linkedin.com/in/esau-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/tiago-alexandre-costa-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
