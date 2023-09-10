@@ -10,7 +10,7 @@
 <p>
     I'm a Full Stack Developer and an Electrical Engineering undergraduate at Universidade de São Paulo (USP)<br>
     </br>
-    Despite my interest on energy sources and power generation, I found an even greater passion on coding and web technologies. Since then, I have been studying numerous languages and tools, as well as developing both hardskills and softskills related this programming world!  <br> 
+    Despite my interest on energy sources and power generation, I found an even greater passion on coding and web technologies. Since then, I have been studying numerous languages and tools, as well as developing both hardskills and softskills related to this programming world!  <br> 
 </p>
 
 <br/>
