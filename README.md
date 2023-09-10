@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="24740200" data-share-method="host" data-aspect-ratio="3.855" data-width="100%"><a href="https://tenor.com/view/welcome-to-my-profile-welcome-gif-24740200"></a>from <a href="https://tenor.com/search/welcome+to+my+profile-gifs">Welcome To My Profile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![welcome-to-my-profile-welcome](https://github.com/tiagoalexandrecs/tiagoalexandrecs/assets/122137155/54a8752f-cfa5-4608-9d71-19cb58a85391)
+
 
 # 😎 **About me:**
 
