@@ -1,4 +1,4 @@
-# Hello there! <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
+<div class="tenor-gif-embed" data-postid="24740200" data-share-method="host" data-aspect-ratio="3.855" data-width="100%"><a href="https://tenor.com/view/welcome-to-my-profile-welcome-gif-24740200">Welcome To My Profile Welcome GIF</a>from <a href="https://tenor.com/search/welcome+to+my+profile-gifs">Welcome To My Profile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 😎 **About me:**
 
@@ -8,14 +8,13 @@
     I'm a Full Stack Developer and an Electrical Engineering undergraduate at Universidade de São Paulo (USP)<br>
     Despite my interest on energy sources and power generation, I found an even greater passion on coding and web technologies.Since then, I have been studying numerous languages and tools, as well as developing both hardskills and softskills related this programming world!  <br> 
     <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
-    Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos com calma.
 </p>
 
 <br/>
 
 #
 
-# 💻 **Linguagens e Ferramentas:**
+# 💻 **Languages and Tech Tools:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
