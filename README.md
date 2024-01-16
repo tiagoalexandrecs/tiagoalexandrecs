@@ -48,17 +48,6 @@
 
 </br>
 
-
-# 📊 **My Statistics:**
-
-<br>
-
-![](https://github.com/tiagoalexandrecs/stats/blob/master/generated/languages.svg)
-![](https://github.com/tiagoalexandrecs/stats/blob/master/generated/overview.svg)
-
-
-
-
 <br>
 
 # 📫 **You can find me on:**
